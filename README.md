@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently learning data science and web development <br><br>ready for open source contributions
+im currently learning data science and web development <br><br>interested in dev ops and ml ops<br><br>ready to do open source contributions
 
 
 ## 🌐 Socials:
