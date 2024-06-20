@@ -27,4 +27,6 @@ im currently learning full stack web development and app development .<br><br>re
 ---
 [![](https://visitcount.itsvg.in/api?id=SaiNithinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/RyomenSukuna_?theme=forest&font=Rozha%20One&ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
